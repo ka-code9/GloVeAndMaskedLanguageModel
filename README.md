@@ -1,4 +1,3 @@
-# mine
 This assignment includes the notebook file that implements a simple version of GloVe, which embeds words into a k-dimensional vector, and then trains a neural net (based off of the Masked Language Modeling objective introduced in BERT) to predict missing key words in the sentence.
 
 Reference to the GloVe paper: 
